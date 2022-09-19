@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1280px;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    background-color: aqua;
+}
+
+h1 {
+    color: #020061;
+    font-size: 35pt;
+}
+
+input {
+    padding: 5px 0;
+    margin: 5px 0;
+}
+
+input:focus {
+    color: #001f75;
+}
+
+button {
+    padding: 5px 50px;
+    background-color: #000a5f;
+    color: white;
+}
+
+button:hover {
+    background-color: #150063;
+    cursor: pointer;
+}
+
+p {
+    font-size: 20pt;
+}
+
+strong {
+    color: #070049;
+}
